@@ -20,3 +20,13 @@ public class Main { // 주 클래스를 "Main"로 정의 함
         System.out.println(g); // 변수 g 를 출력함 즉 2.9 를 출력함
     }
 }
+
+
+// 실행 반응
+// 0
+// hello
+// 10
+// 1.4
+// null
+// 1
+// 2.9
