@@ -18,6 +18,7 @@ public class Main{ // 주 클래스를 "Main"로 정의 함
     }
 }
 
+
 // 실행 반응
 // false
 // true
